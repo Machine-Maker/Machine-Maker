@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jake Potrebic</h1>
-<h3 align="center">University Student in Arizona studying Software Engineering</h3>
+<h3 align="center">An Open-Source Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=machine-maker&label=Profile%20views&color=0e75b6&style=flat" alt="machine-maker" /> </p>
 
